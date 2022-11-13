@@ -79,7 +79,7 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
     </a>
 </p>
 
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrubasaha08&show_icons=true&locale=en&layout=compact"
         alt="dhrubasaha08" />
 </p>
@@ -89,6 +89,17 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
         alt="dhrubasaha08" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha08&"
-        alt="dhrubasaha08" />
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha08&" alt="dhrubasaha08" />
+</p>
+
+<p>
+    <a href="https://github.com/dhrubasaha08/vanilla-minecraft-server-management">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=dhrubasaha08&repo=vanilla-minecraft-server-management&theme=buefy" />
+    </a>
+    <a href="https://github.com/dhrubasaha08/anti-xray-vanilla-texture-pack">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=dhrubasaha08&repo=anti-xray-vanilla-texture-pack&theme=buefy" />
+    </a>
 </p>
