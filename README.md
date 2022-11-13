@@ -1,6 +1,8 @@
+<hr>
+
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-
+<hr>
 
 <h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
 <h3 align="center">✨CS Undergrad 🔹 DIY Enthusiast 🔹 IoT Hobbyist 🔹 Photographer 🔹Gamer✨</h3>
@@ -9,7 +11,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<hr>
 
 # 💫 About Me:
 
@@ -36,7 +38,15 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-416289202)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhrubasaha14)
 
+    
+<p align="center">
+    <a href="https://twitter.com/dhrubasaha08" target="blank">
+        <img src="https://img.shields.io/twitter/follow/dhrubasaha08?logo=twitter&style=for-the-badge"
+            alt="dhrubasaha08" />
+    </a>
+</p>
 
+<hr>
 
 # 💻 Tech Stack:
 
@@ -71,26 +81,34 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-
+<hr>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dhrubasaha08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhrubasaha08&theme=dark&hide_border=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div>
+ 
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10" alt="dhrubasaha08" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark&langs_count=8&border_radus=10" alt="dhrubasaha08" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=dhrubasaha08&theme=dark&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+<div>
 
+    
+    
+<hr>
 
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dhrubasaha08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
-
-
-
+    
+    
+<br/>
+<br/>
+<br/>
+    
 <p align="center">
-    <a href="https://twitter.com/dhrubasaha08" target="blank">
-        <img src="https://img.shields.io/twitter/follow/dhrubasaha08?logo=twitter&style=for-the-badge"
-            alt="dhrubasaha08" />
-    </a>
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
+    
+<hr>
