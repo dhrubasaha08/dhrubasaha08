@@ -7,8 +7,6 @@
 <h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
 <h3 align="center">✨CS Undergrad 🔹 DIY Enthusiast 🔹 IoT Hobbyist 🔹 Photographer 🔹Gamer✨</h3>
 
-
-
 [![](https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <hr>
@@ -30,15 +28,12 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 
 - 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP**
 
-
-
 ## 🌐 Socials:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhrubasaha08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-416289202)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhrubasaha14)
 
-    
 <p align="center">
     <a href="https://twitter.com/dhrubasaha08" target="blank">
         <img src="https://img.shields.io/twitter/follow/dhrubasaha08?logo=twitter&style=for-the-badge"
@@ -67,14 +62,14 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![AdobeLightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
@@ -86,29 +81,34 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 # 📊 GitHub Stats:
 
 <div>
- 
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10" alt="dhrubasaha08" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10" height="255px" width="47%"/>
-<div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark&langs_count=8&border_radus=10" alt="dhrubasaha08" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=dhrubasaha08&theme=dark&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
-<div>
+    <img align="left"
+        src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10"
+        alt="dhrubasaha08" height="250px" width="47%" />
+    <img align="right"
+        src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10"
+        height="255px" width="47%" />
+</div>
 
-    
-    
+</br>
+
+<div>
+    <img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark&langs_count=8&border_radus=10"
+        alt="dhrubasaha08" height="260px" width="25%" />
+    <img align="right"
+        src="https://activity-graph.herokuapp.com/graph?username=dhrubasaha08&theme=dark&hide_border=true&area=true&border_radus=10"
+        height="255px" width="70%" />
+</div>
+
 <hr>
 
-    
-    
-<br/>
-<br/>
-<br/>
-    
+<br />
+<br />
+<br />
+
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+    <img
+        src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
-    
+
 <hr>
