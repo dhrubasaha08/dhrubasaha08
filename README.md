@@ -91,15 +91,6 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 
 </br>
 
-<div>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark&langs_count=8&border_radus=10"
-        alt="dhrubasaha08" height="260px" width="25%" />
-    <img align="right"
-        src="https://activity-graph.herokuapp.com/graph?username=dhrubasaha08&theme=dark&hide_border=true&area=true&border_radus=10"
-        height="255px" width="70%" />
-</div>
-
 <hr>
 
 <br />
