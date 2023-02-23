@@ -34,12 +34,6 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruba-saha-416289202)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhrubasaha14)
 
-<p align="center">
-    <a href="https://twitter.com/dhrubasaha08" target="blank">
-        <img src="https://img.shields.io/twitter/follow/dhrubasaha08?logo=twitter&style=for-the-badge"
-            alt="dhrubasaha08" />
-    </a>
-</p>
 
 <hr>
 
