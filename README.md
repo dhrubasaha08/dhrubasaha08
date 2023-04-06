@@ -62,22 +62,24 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10" alt="dhrubasaha08" style="border-radius: 10px;">
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10" style="border-radius: 10px;">
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10" alt="dhrubasaha08" style="border-radius: 10px;">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 
-<div style="text-align: center; margin-top: 50px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&layout=compact&theme=dark" alt="dhrubasaha08" style="border-radius: 10px;">
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&layout=compact&theme=dark" alt="dhrubasaha08"/>
 </div>
 
 <hr>
 
-<div style="text-align: center; margin-top: 50px;">
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="margin-top: 50px;">
 </div>
 
