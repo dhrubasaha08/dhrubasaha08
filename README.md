@@ -62,25 +62,19 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10" alt="dhrubasaha08" style="border-radius: 10px;">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10" alt="dhrubasaha08" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radius=10" width="49%">
+</p>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&layout=compact&theme=dark" alt="dhrubasaha08"/>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&layout=compact&theme=dark" alt="dhrubasaha08" width="49%">
+</p>
 
 <hr>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="margin-top: 50px;">
-</div>
+</p>
 
 <hr>
