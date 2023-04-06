@@ -5,7 +5,8 @@
 <hr>
 
 <h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
-<h3 align="center">✨CS Undergrad 🔹 DIY Enthusiast 🔹 IoT Hobbyist 🔹 Photographer 🔹Gamer✨<
+<h3 align="center">✨CS Undergrad 🔹 DIY Enthusiast 🔹 IoT Hobbyist 🔹 Photographer 🔹Gamer✨</h3>
+
 [![](https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <hr>
