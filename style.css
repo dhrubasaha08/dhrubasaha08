@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+    div {
+        flex-direction: column;
+    }
+    img {
+        max-width: 100%;
+    }
+}
