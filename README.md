@@ -73,6 +73,25 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 
 <hr>
 
+<section>
+  <h2>GitHub Gist</h2>
+  <p>Here are some gists I've created:</p>
+  <script src="https://gist.github.com/dhrubasaha08/c932eb3a145d726fe586db7de91c7a8f.js"></script>
+</section>
+
+<div>
+    <script src="https://gist.github.com/dhrubasaha08/c932eb3a145d726fe586db7de91c7a8f.js"></script>
+</div>
+
+## My Gist
+
+Here is a code snippet that I recently created using GitHub Gist:
+
+<script src="https://gist.github.com/dhrubasaha08/c932eb3a145d726fe586db7de91c7a8f.js"></script>
+
+
+<hr>
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="margin-top: 50px;">
 </p>
