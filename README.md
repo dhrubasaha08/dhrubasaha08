@@ -94,3 +94,4 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 
 <hr>
  
+<link rel="stylesheet" type="text/css" href="style.css">
