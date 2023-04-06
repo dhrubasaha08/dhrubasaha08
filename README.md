@@ -5,8 +5,7 @@
 <hr>
 
 <h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
-<h3 align="center">✨CS Undergrad 🔹 DIY Enthusiast 🔹 IoT Hobbyist 🔹 Photographer 🔹Gamer✨</h3>
-
+<h3 align="center">✨CS Undergrad 🔹 DIY Enthusiast 🔹 IoT Hobbyist 🔹 Photographer 🔹Gamer✨<
 [![](https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <hr>
@@ -74,26 +73,23 @@ Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
 
 # 📊 GitHub Stats:
 
-<div>
-    <img align="left"
-        src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10"
-        alt="dhrubasaha08" height="250px" width="47%" />
-    <img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10"
-        height="255px" width="47%" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark&border_radius=10" 
+        alt="dhrubasaha08" 
+        style="width: 100%; max-width: 350px; margin-bottom: 20px;" 
+    />
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark&border_radus=10" 
+        style="width: 100%; max-width: 350px;" 
+    />
 </div>
-
-</br>
 
 <hr>
 
-<br />
-<br />
-<br />
-
-<p align="center">
-    <img
-        src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+<p style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="width: 100%; max-width: 350px;">
 </p>
 
 <hr>
+ 
