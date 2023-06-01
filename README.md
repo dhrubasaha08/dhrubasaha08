@@ -15,18 +15,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🔭 I’m currently working on [My Portfolio](https://dhrubasaha.social/)
+- 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
 
-- 🌱 I’m currently learning **Linux kernel at [Outreachyfirstpatch by
-Kernelnewbies](https://kernelnewbies.org/Linux_Kernel_Newbies/)**
+- 🌱 I’m currently learning ****
 
-- 👯 I’m looking to collaborate on **P2P Chatting App**
+- 👯 I’m looking to collaborate on **Arduino Library Development**
 
-- 🤔 I’m looking for help with **Networking**
+- 🤔 I’m looking for help with **Transformer Design**
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
 
-- 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP**
+- 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP, ANN, Arduino**
 
 ## 🌐 Socials:
 
