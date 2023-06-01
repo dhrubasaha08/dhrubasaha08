@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
 
-- 🌱 I’m currently learning **  **
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **Arduino Library Development**
 
