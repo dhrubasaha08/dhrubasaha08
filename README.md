@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Arduino Library Development**
 
-- 🤔 I’m looking for help with **Transformer Design**
+- 🤔 I’m looking for help with **CUET**
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
 
