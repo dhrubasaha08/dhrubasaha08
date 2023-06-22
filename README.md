@@ -78,155 +78,167 @@
 
 <hr>
 
+# Dhruba Saha
 
-# Portfolio
+**Contact Information:**
 
-## Contact Information
+- Name: Master Dhruba Saha
+- Date of Birth: 27th October 2002
+- Phone No I: +91 7797915501
+- Phone No II: +91 7908532014
+- Email I: dhrubasaha@outlook.com
+- Email II: dhrubasaha08@gmail.com
+- Address:
+  - Sabujpally, Trisulapatty
+  - Bolpur - 731204, Birbhum
+  - West Bengal, India
+- Social Media:
+  - GitHub: [github.com/dhrubasaha08](https://github.com/dhrubasaha08/)
+  - LinkedIn: [linkedin.com/in/dhrubasaha08](https://www.linkedin.com/in/dhrubasaha08/)
+  - Twitter: [twitter.com/dhrubasaha08](https://twitter.com/dhrubasaha08/)
+  - Website: [dhrubasaha.social](https://dhrubasaha.social/)
 
-- **Name:** Master Dhruba Saha
-- **Date of Birth:** 27 Oct 2002
-- **Phone No I:** +91 7797915501
-- **Phone No II:** +91 7908532014
-- **Email I:** dhrubasaha@outlook.com
-- **Email II:** dhrubasaha08@gmail.com
-- **Address:**
-  Sabujpally, Trisulapatty
-  Bolpur - 731204
-  Birbhum, West Bengal
-  India
-- **Social:**
-  - GitHub: [https://github.com/dhrubasaha08/](https://github.com/dhrubasaha08/)
-  - LinkedIn: [https://www.linkedin.com/in/dhrubasaha08/](https://www.linkedin.com/in/dhrubasaha08/)
-  - Twitter: [https://twitter.com/dhrubasaha08/](https://twitter.com/dhrubasaha08/)
-  - Website: [https://dhrubasaha.social/](https://dhrubasaha.social/)
+---
 
 ## About Me
 
-My name is Dhruba Saha, a 20-year-old CS graduate. I am a passionate gamer who loves playing GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG in my free time. I am also a photographer and enjoy capturing street, nature, and astrophotography. As a DIY and IoT hobbyist, I enjoy working on various projects. Lastly, I am an open-source contributor.
+I'm Dhruba Saha, a 20-year-old CS graduate with a passion for gaming, photography, DIY projects, IoT, and open-source contributions.
+
+In my free time, I enjoy playing games like GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG. I also have a keen interest in photography, particularly street, nature, and astrophotography. Furthermore, I love working on DIY projects and exploring the world of IoT. Lastly, I actively contribute to open-source projects, fostering collaboration and innovation within the community.
+
+---
 
 ## Education
 
-**Pre Primary Education**
-- Class: KG, LKG (Lower Kindergarten), UKG
+**Pre-Primary Education:**
+
 - Sri Sri Ramakrishna Sishu Vidyapith
 - Ramakrishna Rd, Bolpur-731204, WB, India
-- 2005-2008
+- Years Attended: 2005-2008
 
-**Primary Education**
-- Class: I, II, III, IV
+**Primary Education:**
+
 - Bolpur Girls' Primary School
 - College Road, Bolpur-731204, WB, India
-- 2008-2012
+- Years Attended: 2008-2012
 
-**Middle School/Secondary School/Higher Secondary School(University)**
-- Class: V, VI, VII, VIII, IX, X, XI, XII
+**Middle School/Secondary School/Higher Secondary School (University):**
+
 - Siksha Satra (Institute of Secondary & Higher Secondary Education), Visva Bharati University
 - Surul Rd, Sriniketan-731236, WB, India
-- 2013-2020
+- Years Attended: 2013-2020
 
-**Graduation**
+**Graduation:**
+
 - B.Sc(Honours) Computer Science
 - Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University
 - Santiniketan-731235, WB, India
-- 2020-2023
+- Years Attended: 2020-2023
 
-**Education Qualification**
-- School Certificate Examination [Class X]: 691/900, 76.78% - 2018
-- School Final Examination [Class XII]: 454/600, 75.67% - 2020
-- B.Sc(Honours) Computer Science [Graduation]: 7.5/10 - 2023
+**Education Qualifications:**
+
+- School Certificate Examination [Class X]:
+  - Score: 691/900
+  - Percentage: 76.78%
+  - Year: 2018
+
+- School Final Examination [Class XII]:
+  - Score: 454/600
+  - Percentage: 75.67%
+  - Year: 2020
+
+- B.Sc(Honours) Computer Science [Graduation]:
+  - CGPA: 7.5/10
+  - Year: 2023
+
+---
 
 ## Completed Projects
 
-- **Generate electricity using a motor (dynamo)** - 2014
-- **Makeshift Crane** - Item transfer from ground to 1st floor using motor and cotton thread - 2014
-- **DIY projector** - Using a magnifying glass and smartphone - 2015
-- **Telescope** - 2015
-- **Bicycle brake light** - 2016
-- **Water Boat** - Using a motor and handmade propeller - 2016
-- **Lit up tubelight** - Using CFL Driver - 2018
+Throughout my educational journey, I have developed a variety of DIY projects. Here are some notable ones:
+
+1. **Generate electricity using a motor (dynamo)** - 2014
+2. **Makeshift Crane** - Transferring items from the ground to the first floor using a motor and cotton thread - 2014
+3. **DIY projector** - Using a magnifying glass and smartphone - 2015
+4. **Telescope** - 2015
+5. **Bicycle brake light** - 2016
+6. **Water Boat** - Using a motor and handmade propeller - 2016
+7. **Lit up tubelight** - Using CFL Driver - 2018
 
 Using Arduino:
-- **Bluetooth Smart Switch** - Using HC-05 - 2017
-- **Weather Station** - Using DHT-11 - 2018
-- **Calculator** - Based on Arduino UNO R3 - 2018
-- **Clock** - Based on DS-3231 - 2019
-- **180° Object detection** - Using HC-SR04 - 2019
-- **Smart Dustbin** - Using HC-SR04 - 2019
-- **Ultrasonic Range Measurement** - Using HC-SR04 - 2020
+
+1. **Bluetooth Smart Switch** - Using HC-05 - 2017
+2. **Weather Station** - Using DHT-11 - 2018
+3. **Calculator** - Based on Arduino UNO R3 - 2018
+4. **Clock** - Based on DS-3231 - 2019
+5. **180° Object detection** - Using HC-SR04 - 2019
+6. **Smart Dustbin** - Using HC-SR04 - 2019
+7. **Ultrasonic Range Measurement** - Using HC-SR04 - 2020
 
 Using ESP-32:
-- **Automatic Water Pump Control** - Based on ESP-32 Dev Module - 2022
+
+1. **Automatic Water Pump Control** - Based on ESP-32 Dev Module - 2022
 
 Using Raspberry Pi:
-- **Network firewall & Advertisement blocking** - Based on Raspberry Pi Zero W - 2021
+
+1. **Network firewall & Advertisement blocking** - Based on Raspberry Pi Zero W - 2021
 
 Using AI:
-- **OCR Character Recognition** - Using TensorFlow, OpenCV & Python (Custom designed neural network using a labeled dataset) - CUDA
-- **VoiceGPT** - Using OpenAI's Whisper and Da-Vinci model API for voice-based chatGPT - Python
+
+1. **OCR Character Recognition** - Using TensorFlow, OpenCV & Python (Custom-designed neural network using labeled dataset) - CUDA
+2. **VoiceGPT** - Using OpenAI's Whisper and Da-Vinci model API for voice-based chatGPT - Python
+
+---
 
 ## Current Projects
 
-1. **Website for Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University**
-   - Full Stack: LAMP Stack: HTML, CSS (Bootstrap5), JS, PHP, MySQL
-   - An interactive website for my department to facilitate all students, faculties, and researchers.
-   - It features a login system and dynamic page formatting as per the user's device.
-   - 2021-Present
+1. **Website for the Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University** - Full Stack: LAMP Stack: HTML, CSS (Bootstrap 5), JS, PHP, MySQL - This interactive website aims to facilitate all students, faculties, and researchers in our department. It features a login system and dynamically adjusts page formatting according to the user's device. - Ongoing since 2021
 
-2. **Patient Health Monitoring System**
-   - A low-cost alternative for monitoring a patient's vital condition using IoT.
-   - Utilizing AD8232 ECG Sensor, MAX30102 Pulse Oximeter, DS18B20 Temp Sensor, Custom-made NIBP System (Sphygmomanometer) using HX710B, Air Pump & Solenoid Valve, DHT11 Temperature and Humidity Sensor, BMP280 Air Pressure Sensor.
-   - 2023-Present
+2. **Patient Health Monitoring System** - A low-cost alternative for monitoring patients' vital conditions using IoT. The system incorporates features of a commercial Patient Monitoring System at only 1/8th of the cost. It utilizes various sensors such as AD8232 ECG Sensor, MAX30102 Pulse Oximeter, DS18B20 Temp Sensor, custom-made NIBP System (Sphygmomanometer) using HX710B, Air Pump & Solenoid Valve, DHT11 Temperature and Humidity Sensor, and BMP280 Air Pressure Sensor. - Ongoing since 2023
 
-## Open Source Contribution
+---
 
-I am passionate about contributing to open source projects in my free time. All projects from 2021 are open-sourced on my GitHub. Recently, I started developing libraries for sensor integration with Arduino IDE. I have created two libraries so far, and both of them are added to the official Arduino IDE.
+## Open Source Contributions
 
-Arduino Sensor Library List:
-1. **DHT11 Arduino Library**: A simple and efficient library for reading temperature and humidity data from the DHT11 sensor without dependencies.
-2. **SimpleUltrasonic Arduino Library**: A simple and efficient library for calculating distance data from the HC-SR04 sensor without dependencies.
+I am an active contributor to open-source projects, dedicating my free time to enhance collaboration and innovation. Here are some of my contributions:
 
-I have also created some tutorials:
-1. **How to install graphics.h in Ubuntu**
-2. **Setting up WSL2 for C/C++/OpenGL Development** - Step-by-step instructions
+- Created Arduino libraries:
+  1. **DHT11 Arduino Library**: A simple and efficient library for reading temperature and humidity data from the DHT11 sensor without dependencies.
+  2. **SimpleUltrasonic Arduino Library**: A simple and efficient library for calculating distance data from the HC-SR04 sensor without dependencies.
 
-## Gaming Experience
+- Created tutorials:
+  1. **How to install graphics.h in Ubuntu**
+  2. **Setting up WSL2 for C/C++/OpenGL Development** - Step-by-step instructions
 
-As a gamer, I have set up Minecraft and Rust servers to play with my friends. Through this experience, I have gained knowledge about automation using shell and batch scripts. I have also learned about AWS, Google Cloud, and Azure for managing virtual machines, networking, and SSH-based terminal control.
+---
+
+## Gaming and Server Administration
+
+As a passionate gamer, I have gained valuable experience in server administration and automation. I have set up Minecraft and Rust servers to enjoy gaming sessions with my friends. Through these endeavors, I have acquired knowledge of automation using shell and batch scripts, as well as managing virtual machines and networks on platforms such as AWS, Google Cloud, and Azure. Here are the highlights:
 
 **Minecraft:**
-- Developed a Vanilla Minecraft Server Management script.
-- Implemented auto backup on server stop, auto restart on server crash, update from Mojang website, and backup/start functions.
-- Created a texture pack to provide basic anti-cheating measures against X-ray exploits.
-- Ran the server for my friends from 2019 to 2021.
-- Explored Minecraft texture pack design and utilized Nvidia AI upscaling with CUDA.
+
+- Developed an automated script for running a Java-based Minecraft server on Linux.
+- Created a texture pack to prevent X-ray exploits and enhance anti-cheating measures.
+- Operated a Minecraft server for my friends from 2019 to 2021, where I learned about Minecraft texture pack design and utilized Nvidia AI upscaling with CUDA.
 
 **Rust:**
-- Founded and administered a Rust server from 2020 to 2022.
-- Configured plugins, handled server moderation, and maintained server performance.
-- Implemented automated backup on server stop and auto-restart on server crash.
-- Utilized various Rust server hosting platforms and gained experience in managing game servers.
 
-## Photography
+- Founded and managed Rusty India, a Rust server community.
+- Created a custom map of India using Rust Edit and World Creator.
+- Gained expertise in network security, implementing Fail2Ban, Snort, Geo-IP based IP Filtering using IP Tables.
+- Utilized bastion host for secure server connections.
+- Acquired knowledge of TCP/UDP packet routing, ports, and game world development within game engines.
+- Ran the server on Google Cloud.
 
-I am a passionate photographer and enjoy capturing different subjects. My photography genres include street photography, nature photography, and astrophotography. Some of my favorite shots can be found on my [website](https://dhrubasaha.social/photography).
+---
 
-## Skills
+## Community Contributions
 
-- Programming Languages: C, C++, Java, Python, PHP
-- Web Development: HTML, CSS (Bootstrap), JavaScript, PHP, MySQL
-- IoT: Arduino, Raspberry Pi, ESP32
-- Version Control: Git
-- Operating Systems: Linux (Ubuntu), Windows
-- Image and Video Editing: Adobe Photoshop, Adobe Premiere Pro
-- Office Suite: Microsoft Office, LibreOffice
+To foster community engagement and knowledge sharing, I established the VBDCSS IoT Club during my second year of university in 2022. This club aims to teach and inspire students about IoT and DIY projects. Additionally, I manage and created our department's GitHub organization, taking the lead in utilizing advanced GitHub features and fostering collaboration among students.
 
-## Hobbies and Interests
+---
 
-- Gaming (GTA V, CS GO, Rust, Minecraft, Fortnite, PUBG)
-- Photography (Street, Nature, Astrophotography)
-- DIY and IoT Projects
-- Open Source Contribution
-- Reading Books (Technical, Mystery, Fantasy)
+This portfolio showcases my diverse skill set and demonstrates my passion for technology, gaming, DIY projects, and open-source contributions. If you have any further questions or require additional information, feel free to reach out to me using the provided contact details.
 
 Thank you for visiting my portfolio!
-
