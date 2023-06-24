@@ -25,10 +25,10 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 | Domain                                          | Type                                          |
 |-------------------------------------------------|-----------------------------------------------|
-| **Domain Knowledge**                            | ![Computer Science](https://img.shields.io/badge/-Computer%20Science-FAB040?style=for-the-badge&Color=white) ![Software Development](https://img.shields.io/badge/-Software%20Development-FF6600?style=for-the-badge&logoColor=white) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=for-the-badge&logoColor=white) |
+| **Domain Knowledge**                            | ![Computer Science](https://img.shields.io/badge/-Computer%20Science-FAB040?style=for-the-badge&Color=white) ![Software Development](https://img.shields.io/badge/-Software%20Development-FF6600?style=for-the-badge&logoColor=white) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=for-the-badge&logoColor=white)  |
 | **Language**                                    | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![CMAKE](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  |
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)    |
-| **CI / CD**                                     | ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=for-the-badge&logo=Github&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=for-the-badge&logo=Git&logoColor=white)    |
+| **Databases**                                   | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  |
+| **CI / CD**                                     | ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=for-the-badge&logo=Github&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=for-the-badge&logo=Git&logoColor=white)  |
 | **Web**                                         | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  |
 | **Cloud**                                       | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  | 
 | **OS**                                          | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2010&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)  |
@@ -74,6 +74,10 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
 # ⚡ Current Projects
@@ -175,8 +179,6 @@ To foster engagement and knowledge sharing, I established the VBDCSS IoT Club du
 
 This portfolio showcases my diverse skill set and demonstrates my passion for technology, gaming, DIY projects, and open-source contributions. If you have any further questions or require additional information, feel free to reach out to me using the provided contact details.
 
-<p align="center">
-  <b>Thank you for visiting my portfolio!</b>
-</p>
+<h3 align="center" >Thank you for visiting my portfolio!</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer">
