@@ -2,14 +2,14 @@
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<hr>
+---
 
 <h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
 <h3 align="center">✨CS Undergrad 🔹 DIY Enthusiast 🔹 IoT Hobbyist 🔹 Photographer 🔹Gamer✨</h3>
 
 [![](https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<hr>
+---
 
 # 💫 About Me:
 
@@ -53,9 +53,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 <hr>
 
@@ -77,6 +74,8 @@
 </p>
 
 <hr>
+
+---
 
 # Dhruba Saha
 
