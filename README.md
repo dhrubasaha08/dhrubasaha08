@@ -57,6 +57,9 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
 
+- 🤔 I’m looking for help with **⚡ Current Projects**
+
+- 💬 Ask me from **💻 Tech Stack**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
