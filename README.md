@@ -55,11 +55,8 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 - 👯 I’m looking to collaborate on **Arduino Library Development**
 
-- 🤔 I’m looking for help with **CUET**
-
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
 
-- 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP, ANN, Arduino**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
