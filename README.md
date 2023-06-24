@@ -47,6 +47,24 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+- 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
+
+- 🌱 I’m currently learning **TensorFlow**
+
+- 👯 I’m looking to collaborate on **Arduino Library Development**
+
+- 🤔 I’m looking for help with **CUET**
+
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
+
+- 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP, ANN, Arduino**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
+
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -57,7 +75,6 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark">
 </p>
-
 
 # ⚡ Current Projects
 
@@ -84,7 +101,6 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
   - **Water Boat** - Using a motor and handmade propeller - `2016`
   - **Lit up tubelight** - Using CFL Driver - `2018`
 
-
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   - **Bluetooth Smart Switch** - Using HC-05 - `2017`
   - **Weather Station** - Using DHT-11 - `2018`
@@ -108,16 +124,14 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-## Open Source Contributions
+# 📒 Open Source Contributions
 
 I am an active contributor to open-source projects, dedicating my free time to enhance collaboration and innovation. Here are some of my contributions:
-
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 - Created Arduino libraries:
   - **DHT11 Arduino Library**: A simple and efficient library for reading temperature and humidity data from the DHT11 sensor without dependencies.
   - **SimpleUltrasonic Arduino Library**: A simple and efficient library for calculating distance data from the HC-SR04 sensor without dependencies.
-
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - Created tutorials:
@@ -151,45 +165,9 @@ As a passionate gamer, I have gained valuable experience in server administratio
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-## Community Contributions
+# 🏢 Community Contributions
 
-To foster community engagement and knowledge sharing, I established the VBDCSS IoT Club during my second year of university in 2022. This club aims to teach and inspire students about IoT and DIY projects. Additionally, I manage and created our department's GitHub organization, taking the lead in utilizing advanced GitHub features and fostering collaboration among students.
-
----
-## 🌐 Workspace Specs:
-
-![ROG-G15](https://img.shields.io/badge/Windows-ASUS_ROG_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ryzen 9 5900HX](https://img.shields.io/badge/AMD-Ryzen_9_5900HX-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-![Custom](https://img.shields.io/badge/Windows-Custom-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel Core i7 7700K](https://img.shields.io/badge/Intel-Core_i7_7700K-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
-- 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
-
-- 🌱 I’m currently learning **TensorFlow**
-
-- 👯 I’m looking to collaborate on **Arduino Library Development**
-
-- 🤔 I’m looking for help with **CUET**
-
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
-
-- 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP, ANN, Arduino**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
-
-## 🌐 Sponsor:
-
-![GPay](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)
-![PayTM](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
-![PayPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
-![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+To foster engagement and knowledge sharing, I established the VBDCSS IoT Club during my second year of university in 2022. This club aims to teach and inspire students about IoT and DIY projects. Additionally, I manage and created our department's GitHub organization, taking the lead in utilizing advanced GitHub features and fostering collaboration among students.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -197,6 +175,8 @@ To foster community engagement and knowledge sharing, I established the VBDCSS I
 
 This portfolio showcases my diverse skill set and demonstrates my passion for technology, gaming, DIY projects, and open-source contributions. If you have any further questions or require additional information, feel free to reach out to me using the provided contact details.
 
-Thank you for visiting my portfolio!
+<p align="center">
+  Thank you for visiting my portfolio!
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer">
