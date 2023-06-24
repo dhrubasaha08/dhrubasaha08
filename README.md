@@ -1,26 +1,22 @@
-![](src/header_image.svg)
-<hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header">
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
----
 
 <h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
 <h3 align="center">✨Open Source Contributor🔹CS Grad🔹IoT Hobbyist🔹DIY Enthusiast🔹Photographer🔹Gamer✨</h3>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
+</p>
+
 
 # 💫 About Me:
 
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
-  </a>
-</p>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
@@ -69,19 +65,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&layout=compact&theme=dark" alt="dhrubasaha08" width="49%">
 </p>
 
-<hr>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="margin-top: 50px;">
-</p>
-
-
-<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
-
 ---
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer">
 
 ---
 
