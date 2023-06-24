@@ -11,11 +11,13 @@
 
 # 💫 About Me:
 
-<h1 style="display: flex; justify-content: flex-end;">
+<p align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0" alt="Visitor Count">
+    <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
   </a>
-</h1>
+</p>
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
