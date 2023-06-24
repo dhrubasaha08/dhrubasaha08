@@ -73,7 +73,7 @@
 
 ---
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dhrubasaha08" width="auto"></img>
+
 
 ---
 
