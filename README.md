@@ -112,15 +112,21 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
 
 I am an active contributor to open-source projects, dedicating my free time to enhance collaboration and innovation. Here are some of my contributions:
 
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 - Created Arduino libraries:
-  1. **DHT11 Arduino Library**: A simple and efficient library for reading temperature and humidity data from the DHT11 sensor without dependencies.
-  2. **SimpleUltrasonic Arduino Library**: A simple and efficient library for calculating distance data from the HC-SR04 sensor without dependencies.
+  - **DHT11 Arduino Library**: A simple and efficient library for reading temperature and humidity data from the DHT11 sensor without dependencies.
+  - **SimpleUltrasonic Arduino Library**: A simple and efficient library for calculating distance data from the HC-SR04 sensor without dependencies.
 
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - Created tutorials:
-  1. **How to install graphics.h in Ubuntu**
-  2. **Setting up WSL2 for C/C++/OpenGL Development** - Step-by-step instructions
+- **How to install graphics.h in `Ubuntu`**
+- **Setting up WSL2 for C/C++/OpenGL Development** - `Step-by-step instructions`
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 ## 🌐 Gaming and Server Administration
 
