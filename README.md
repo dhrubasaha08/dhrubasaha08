@@ -15,19 +15,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
-- 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
-
-- 🌱 I’m currently learning **TensorFlow**
-
-- 👯 I’m looking to collaborate on **Arduino Library Development**
-
-- 🤔 I’m looking for help with **CUET**
-
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
-
-- 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP, ANN, Arduino**
+I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contributions, DIY projects, IoT, photography and gaming. I love working on DIY projects and exploring the world of IoT. In my free time, I actively contribute to open-source projects, fostering collaboration and innovation within the community. Furthermore, I also have a keen interest in photography, particularly street, nature, and astrophotography. Lastly, I enjoy playing games like GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -65,129 +53,50 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark">
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer">
+
+# ⚡ Current Projects
+
+1. **Website for the Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University** - Full Stack: LAMP Stack: HTML, CSS (Bootstrap 5), JS, PHP, MySQL - This interactive website aims to facilitate all students, faculties, and researchers in our department. It features a login system and dynamically adjusts page formatting according to the user's device. - Ongoing since 2021
+
+2. **Patient Health Monitoring System** - A low-cost alternative for monitoring patients' vital conditions using IoT. The system incorporates features of a commercial Patient Monitoring System at only 1/8th of the cost. It utilizes various sensors such as AD8232 ECG Sensor, MAX30102 Pulse Oximeter, DS18B20 Temp Sensor, custom-made NIBP System (Sphygmomanometer) using HX710B, Air Pump & Solenoid Valve, DHT11 Temperature and Humidity Sensor, and BMP280 Air Pressure Sensor. - Ongoing since 2023
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-# Dhruba Saha
-
-**Contact Information:**
-
-- Name: Master Dhruba Saha
-- Date of Birth: 27th October 2002
-- Phone No I: +91 7797915501
-- Phone No II: +91 7908532014
-- Email I: dhrubasaha@outlook.com
-- Email II: dhrubasaha08@gmail.com
-- Address:
-  - Sabujpally, Trisulapatty
-  - Bolpur - 731204, Birbhum
-  - West Bengal, India
-- Social Media:
-  - GitHub: [github.com/dhrubasaha08](https://github.com/dhrubasaha08/)
-  - LinkedIn: [linkedin.com/in/dhrubasaha08](https://www.linkedin.com/in/dhrubasaha08/)
-  - Twitter: [twitter.com/dhrubasaha08](https://twitter.com/dhrubasaha08/)
-  - Website: [dhrubasaha.social](https://dhrubasaha.social/)
-
----
-
-## About Me
-
-I'm Dhruba Saha, a 20-year-old CS graduate with a passion for gaming, photography, DIY projects, IoT, and open-source contributions.
-
-In my free time, I enjoy playing games like GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG. I also have a keen interest in photography, particularly street, nature, and astrophotography. Furthermore, I love working on DIY projects and exploring the world of IoT. Lastly, I actively contribute to open-source projects, fostering collaboration and innovation within the community.
-
----
-
-## Education
-
-**Pre-Primary Education:**
-
-- Sri Sri Ramakrishna Sishu Vidyapith
-- Ramakrishna Rd, Bolpur-731204, WB, India
-- Years Attended: 2005-2008
-
-**Primary Education:**
-
-- Bolpur Girls' Primary School
-- College Road, Bolpur-731204, WB, India
-- Years Attended: 2008-2012
-
-**Middle School/Secondary School/Higher Secondary School (University):**
-
-- Siksha Satra (Institute of Secondary & Higher Secondary Education), Visva Bharati University
-- Surul Rd, Sriniketan-731236, WB, India
-- Years Attended: 2013-2020
-
-**Graduation:**
-
-- B.Sc(Honours) Computer Science
-- Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University
-- Santiniketan-731235, WB, India
-- Years Attended: 2020-2023
-
-**Education Qualifications:**
-
-- School Certificate Examination [Class X]:
-  - Score: 691/900
-  - Percentage: 76.78%
-  - Year: 2018
-
-- School Final Examination [Class XII]:
-  - Score: 454/600
-  - Percentage: 75.67%
-  - Year: 2020
-
-- B.Sc(Honours) Computer Science [Graduation]:
-  - CGPA: 7.5/10
-  - Year: 2023
-
----
-
-## Completed Projects
+# ⚒️ Projects
 
 Throughout my educational journey, I have developed a variety of DIY projects. Here are some notable ones:
 
-1. **Generate electricity using a motor (dynamo)** - 2014
-2. **Makeshift Crane** - Transferring items from the ground to the first floor using a motor and cotton thread - 2014
-3. **DIY projector** - Using a magnifying glass and smartphone - 2015
-4. **Telescope** - 2015
-5. **Bicycle brake light** - 2016
-6. **Water Boat** - Using a motor and handmade propeller - 2016
-7. **Lit up tubelight** - Using CFL Driver - 2018
+- ![Science](http://ForTheBadge.com/images/badges/built-with-science.svg)
+  - **Generate electricity using a motor (dynamo)** - `2014`
+  - **Makeshift Crane** - Transferring items from the ground to the first floor using a motor and cotton thread - `2014`
+  - **DIY projector** - Using a magnifying glass and smartphone - `2015`
+  - **Telescope** - `2015`
+  - **Bicycle brake light** - `2016`
+  - **Water Boat** - Using a motor and handmade propeller - `2016`
+  - **Lit up tubelight** - Using CFL Driver - `2018`
 
-Using Arduino:
 
-1. **Bluetooth Smart Switch** - Using HC-05 - 2017
-2. **Weather Station** - Using DHT-11 - 2018
-3. **Calculator** - Based on Arduino UNO R3 - 2018
-4. **Clock** - Based on DS-3231 - 2019
-5. **180° Object detection** - Using HC-SR04 - 2019
-6. **Smart Dustbin** - Using HC-SR04 - 2019
-7. **Ultrasonic Range Measurement** - Using HC-SR04 - 2020
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  - **Bluetooth Smart Switch** - Using HC-05 - `2017`
+  - **Weather Station** - Using DHT-11 - `2018`
+  - **Calculator** - Based on Arduino UNO R3 - `2018`
+  - **Clock** - Based on DS-3231 - `2019`
+  - **180° Object detection** - Using HC-SR04 - `2019`
+  - **Smart Dustbin** - Using HC-SR04 - `2019`
+  - **Ultrasonic Range Measurement** - Using HC-SR04 - `2020`
 
-Using ESP-32:
+- ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+  - **Automatic Water Pump Control** - Based on ESP-32 Dev Module - `2022`
 
-1. **Automatic Water Pump Control** - Based on ESP-32 Dev Module - 2022
-
-Using Raspberry Pi:
-
-1. **Network firewall & Advertisement blocking** - Based on Raspberry Pi Zero W - 2021
+- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+  - **Network firewall & Advertisement blocking** - Based on Raspberry Pi Zero W - `2021`
 
 Using AI:
 
 1. **OCR Character Recognition** - Using TensorFlow, OpenCV & Python (Custom-designed neural network using labeled dataset) - CUDA
 2. **VoiceGPT** - Using OpenAI's Whisper and Da-Vinci model API for voice-based chatGPT - Python
-
----
-
-## Current Projects
-
-1. **Website for the Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University** - Full Stack: LAMP Stack: HTML, CSS (Bootstrap 5), JS, PHP, MySQL - This interactive website aims to facilitate all students, faculties, and researchers in our department. It features a login system and dynamically adjusts page formatting according to the user's device. - Ongoing since 2021
-
-2. **Patient Health Monitoring System** - A low-cost alternative for monitoring patients' vital conditions using IoT. The system incorporates features of a commercial Patient Monitoring System at only 1/8th of the cost. It utilizes various sensors such as AD8232 ECG Sensor, MAX30102 Pulse Oximeter, DS18B20 Temp Sensor, custom-made NIBP System (Sphygmomanometer) using HX710B, Air Pump & Solenoid Valve, DHT11 Temperature and Humidity Sensor, and BMP280 Air Pressure Sensor. - Ongoing since 2023
 
 ---
 
@@ -205,7 +114,7 @@ I am an active contributor to open-source projects, dedicating my free time to e
 
 ---
 
-## Gaming and Server Administration
+## 🌐 Gaming and Server Administration
 
 As a passionate gamer, I have gained valuable experience in server administration and automation. I have set up Minecraft and Rust servers to enjoy gaming sessions with my friends. Through these endeavors, I have acquired knowledge of automation using shell and batch scripts, as well as managing virtual machines and networks on platforms such as AWS, Google Cloud, and Azure. Here are the highlights:
 
@@ -224,6 +133,13 @@ As a passionate gamer, I have gained valuable experience in server administratio
 - Acquired knowledge of TCP/UDP packet routing, ports, and game world development within game engines.
 - Ran the server on Google Cloud.
 
+![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
+
 ---
 
 ## Community Contributions
@@ -236,18 +152,27 @@ To foster community engagement and knowledge sharing, I established the VBDCSS I
 ![ROG-G15](https://img.shields.io/badge/Windows-ASUS_ROG_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ryzen 9 5900HX](https://img.shields.io/badge/AMD-Ryzen_9_5900HX-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ![Custom](https://img.shields.io/badge/Windows-Custom-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel Core i7 7700K](https://img.shields.io/badge/Intel-Core_i7_7700K-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
-## 🌐 Gaming:
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
-![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
+- 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
 
----
+- 🌱 I’m currently learning **TensorFlow**
+
+- 👯 I’m looking to collaborate on **Arduino Library Development**
+
+- 🤔 I’m looking for help with **CUET**
+
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/dhrubasaha08/)
+
+- 💬 Ask me about **GCP , Azure, Shell, Batch, SEO, Snort, Geo-IP, ANN, Arduino**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 ## 🌐 Sponsor:
 
@@ -257,8 +182,12 @@ To foster community engagement and knowledge sharing, I established the VBDCSS I
 ![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
 ![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 This portfolio showcases my diverse skill set and demonstrates my passion for technology, gaming, DIY projects, and open-source contributions. If you have any further questions or require additional information, feel free to reach out to me using the provided contact details.
 
 Thank you for visiting my portfolio!
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer">
