@@ -128,7 +128,7 @@ I am an active contributor to open-source projects, dedicating my free time to e
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-## 🌐 Gaming and Server Administration
+# 🌐 Gaming and Server Administration
 
 As a passionate gamer, I have gained valuable experience in server administration and automation. I have set up Minecraft and Rust servers to enjoy gaming sessions with my friends. Through these endeavors, I have acquired knowledge of automation using shell and batch scripts, as well as managing virtual machines and networks on platforms such as AWS, Google Cloud, and Azure. Here are the highlights:
 
@@ -147,14 +147,9 @@ As a passionate gamer, I have gained valuable experience in server administratio
 - Acquired knowledge of TCP/UDP packet routing, ports, and game world development within game engines.
 - Ran the server on Google Cloud.
 
-![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
-![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 ## Community Contributions
 
