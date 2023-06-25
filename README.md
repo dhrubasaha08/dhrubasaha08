@@ -1,13 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width=100% alt="Header Banner>"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width=100% alt="Header Banner">
 
 
-<p align="center">
-  <h1> Hello there 👋, I'm Dhruba Saha</h1>
-  <h3>✨Open Source Contributor🔹CS Grad🔹IoT Hobbyist🔹DIY Enthusiast🔹Photographer🔹Gamer✨</h3>
-</p>
+<h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
+<h3 align="center">✨Open Source Contributor🔹CS Grad🔹IoT Hobbyist🔹DIY Enthusiast🔹Photographer🔹Gamer✨</h3>
 
 
-![Header Banner](src/animated_presentation_software_header.gif)
+![Header Banner](assets/animated_presentation_software_header.gif)
 
 
 <p align="right">
@@ -68,7 +66,7 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 <img src="assets/animated_coding.gif" align="right" alt="Coding" width="400">
 
 
-- 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
+- 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories](https://github.com/dhrubasaha08?tab=repositories)
 
 - 🌱 I’m currently learning **TensorFlow**
 
@@ -78,7 +76,7 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 - 🤔 I’m looking for help with **⚡ Current Projects**
 
-- 💬 Ask me from **💻 Tech Stack**
+- 💬 Ask me anything from **💻 Tech Stack**
 
 
 <p align="center">
@@ -91,8 +89,8 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 # 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark">
 </p>
 
 
