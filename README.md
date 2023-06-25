@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width=100% >
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
@@ -158,8 +158,6 @@ As a passionate gamer, I have gained valuable experience in server administratio
 - Developed an automated script for running a Java-based Minecraft server on Linux.
 - Created a texture pack to prevent X-ray exploits and enhance anti-cheating measures.
 - Operated a Minecraft server for my friends from 2019 to 2021, where I learned about Minecraft texture pack design and utilized Nvidia AI upscaling with CUDA.
-
-
 
 ## Rust
 
