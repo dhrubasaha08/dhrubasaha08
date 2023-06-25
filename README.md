@@ -197,14 +197,15 @@ I am an active contributor to open-source projects, dedicating my free time to e
 As a passionate gamer, I have gained valuable experience in server administration and automation. I have set up Minecraft and Rust servers to enjoy gaming sessions with my friends. Through these endeavors, I have acquired knowledge of automation using shell and batch scripts, as well as managing virtual machines and networks on platforms such as AWS, Google Cloud, and Azure. Here are the highlights:
 
 
-## Minecraft
+### Minecraft
 
 - Developed an automated script for running a Java-based Minecraft server on Linux.
 - Created a texture pack to prevent X-ray exploits and enhance anti-cheating measures.
 - Operated a Minecraft server for my friends from 2019 to 2021, where I learned about Minecraft texture pack design and utilized Nvidia AI upscaling with CUDA.
 
 
-## Rust
+
+### Rust
 
 - Founded and managed Rusty India, a Rust server community.
 - Created a custom map of India using Rust Edit and World Creator.
@@ -234,6 +235,7 @@ To foster engagement and knowledge sharing, I established the VBDCSS IoT Club du
 
 
 This portfolio showcases my diverse skill set and demonstrates my passion for technology, gaming, DIY projects, and open-source contributions. If you have any further questions or require additional information, feel free to reach out to me using the provided contact details.
+
 
 
 <h3 align="center">Thank you for visiting my portfolio!</h3>
