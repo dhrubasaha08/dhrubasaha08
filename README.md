@@ -1,21 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width=100% >
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width=100% alt="Header Banner>"
 
-<h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
-<h3 align="center">✨Open Source Contributor🔹CS Grad🔹IoT Hobbyist🔹DIY Enthusiast🔹Photographer🔹Gamer✨</h3>
 
-[![Header Banner](src/animated_presentation_software_header.gif)]()
+<p align="center">
+  <h1> Hello there 👋, I'm Dhruba Saha</h1>
+  <h3>✨Open Source Contributor🔹CS Grad🔹IoT Hobbyist🔹DIY Enthusiast🔹Photographer🔹Gamer✨</h3>
+</p>
+
+
+![Header Banner](src/animated_presentation_software_header.gif)
+
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
 </p>
 
+
+<p align="center">
+  <img src="assets/multi_color_ribbon.png">
+</p>
+
+
+
+
 # 💫 About Me
 
 I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contributions, DIY projects, IoT, photography and gaming. I love working on DIY projects and exploring the world of IoT. In my free time, I actively contribute to open-source projects, fostering collaboration and innovation within the community. Furthermore, I also have a keen interest in photography, particularly street, nature, and astrophotography. Lastly, I enjoy playing games like GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG. 
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
+
+
+
 
 # 💻 Tech Stack
 
@@ -34,16 +51,21 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 | **Office**                                      | ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)  |
 | **Photo Editor & Design**                       | ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  |
 
+
 <p align="right">
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 </p>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+
+
+<img src="assets/animated_coding.gif" align="right" alt="Coding" width="400">
 
 
 - 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
@@ -58,9 +80,13 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 - 💬 Ask me from **💻 Tech Stack**
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
+
+
+
 
 # 📊 GitHub Stats
 
@@ -69,16 +95,20 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
     <img src="https://github-readme-stats.vercel.app/api?username=dhrubasaha08&show_icons=true&theme=dark">
 </p>
 
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubasaha08&theme=dark">
 </p>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
 
-# ⚡ Current Projects
 
+
+
+# ⚡ Current Projects
  
   - **Website for the Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University** - Full Stack: LAMP Stack: HTML, CSS (Bootstrap 5), JS, PHP, MySQL - This interactive website aims to facilitate all students, faculties, and researchers in our department. It features a login system and dynamically adjusts page formatting according to the user's device. - Ongoing since `2021`
     ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -87,13 +117,18 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
   - **Patient Health Monitoring System** - A low-cost alternative for monitoring patients' vital conditions using IoT. The system incorporates features of a commercial Patient Monitoring System at only 1/8th of the cost. It utilizes various sensors such as AD8232 ECG Sensor, MAX30102 Pulse Oximeter, DS18B20 Temp Sensor, custom-made NIBP System (Sphygmomanometer) using HX710B, Air Pump & Solenoid Valve, DHT11 Temperature and Humidity Sensor, and BMP280 Air Pressure Sensor. - Ongoing since `2023`
     ### ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
+
+
+
 
 # ⚒️ Projects
 
 Throughout my educational journey, I have developed a variety of DIY projects. Here are some notable ones:
+
 
 ### ![Science](http://ForTheBadge.com/images/badges/built-with-science.svg)
   - **Generate electricity using a motor (dynamo)** - `2014`
@@ -104,6 +139,7 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
   - **Water Boat** - Using a motor and handmade propeller - `2016`
   - **Lit up tubelight** - Using CFL Driver - `2018`
 
+
 ### ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   - **Bluetooth Smart Switch** - Using HC-05 - `2017`
   - **Weather Station** - Using DHT-11 - `2018`
@@ -113,47 +149,62 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
   - **Smart Dustbin** - Using HC-SR04 - `2019`
   - **Ultrasonic Range Measurement** - Using HC-SR04 - `2020`
 
+
 ### ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
   - **Automatic Water Pump Control** - Based on ESP-32 Dev Module - `2022`
 
+
 ### ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   - **Network firewall & Advertisement blocking** - Based on Raspberry Pi Zero W - `2021`
+
 
 ### ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=for-the-badge&logoColor=white)
   - **OCR Character Recognition** - Using TensorFlow, OpenCV & Python (Custom-designed neural network using labeled dataset) - `CUDA`
   - **VoiceGPT** - Using OpenAI's Whisper and Da-Vinci model API for voice-based chatGPT - `Python`
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
+
+
+
 
 # 📒 Open Source Contributions
 
 I am an active contributor to open-source projects, dedicating my free time to enhance collaboration and innovation. Here are some of my contributions:
+
 
 ### ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 - Created Arduino libraries:
   - **DHT11 Arduino Library**: A simple and efficient library for reading temperature and humidity data from the DHT11 sensor without dependencies.
   - **SimpleUltrasonic Arduino Library**: A simple and efficient library for calculating distance data from the HC-SR04 sensor without dependencies.
 
+
 ### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - Created tutorials:
   - **How to install graphics.h in `Ubuntu`**
   - **Setting up WSL2 for C/C++/OpenGL Development** - `Step-by-step instructions`
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
+
+
+
 
 # 🌐 Gaming and Server Administration
 
 As a passionate gamer, I have gained valuable experience in server administration and automation. I have set up Minecraft and Rust servers to enjoy gaming sessions with my friends. Through these endeavors, I have acquired knowledge of automation using shell and batch scripts, as well as managing virtual machines and networks on platforms such as AWS, Google Cloud, and Azure. Here are the highlights:
+
 
 ## Minecraft
 
 - Developed an automated script for running a Java-based Minecraft server on Linux.
 - Created a texture pack to prevent X-ray exploits and enhance anti-cheating measures.
 - Operated a Minecraft server for my friends from 2019 to 2021, where I learned about Minecraft texture pack design and utilized Nvidia AI upscaling with CUDA.
+
 
 ## Rust
 
@@ -164,20 +215,32 @@ As a passionate gamer, I have gained valuable experience in server administratio
 - Acquired knowledge of TCP/UDP packet routing, ports, and game world development within game engines.
 - Ran the server on Google Cloud.
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
+
+
+
 
 # 🏢 Community Contributions
 
 To foster engagement and knowledge sharing, I established the VBDCSS IoT Club during my second year of university in 2022. This club aims to teach and inspire students about IoT and DIY projects. Additionally, I manage and created our department's GitHub organization, taking the lead in utilizing advanced GitHub features and fostering collaboration among students.
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="assets/multi_color_ribbon.png">
 </p>
+
+
+
 
 This portfolio showcases my diverse skill set and demonstrates my passion for technology, gaming, DIY projects, and open-source contributions. If you have any further questions or require additional information, feel free to reach out to me using the provided contact details.
 
-<h3 align="center" >Thank you for visiting my portfolio!</h3>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer">
+<h3 align="center">Thank you for visiting my portfolio!</h3>
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width=100% alt="Footer Banner">
