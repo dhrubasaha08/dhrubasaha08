@@ -184,6 +184,6 @@ To foster engagement and knowledge sharing, I established the VBDCSS IoT Club du
 
 This portfolio showcases my diverse skill set and demonstrates my passion for technology, gaming, DIY projects, and open-source contributions. If you have any further questions or require additional information, feel free to reach out to me using the provided contact details.
 
-<h3 align="center" >Thank you for visiting my portfolio!</h3>
+<h3 align="center">Thank you for visiting my portfolio!</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer">
