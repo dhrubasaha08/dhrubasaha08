@@ -83,11 +83,13 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 # ⚡ Current Projects
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- **Website for the Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University** - Full Stack: LAMP Stack: HTML, CSS (Bootstrap 5), JS, PHP, MySQL - This interactive website aims to facilitate all students, faculties, and researchers in our department. It features a login system and dynamically adjusts page formatting according to the user's device. - Ongoing since `2021`
+ 
+  - **Website for the Department of Computer & System Sciences, Siksha Bhavana, Visva Bharati University** - Full Stack: LAMP Stack: HTML, CSS (Bootstrap 5), JS, PHP, MySQL - This interactive website aims to facilitate all students, faculties, and researchers in our department. It features a login system and dynamically adjusts page formatting according to the user's device. - Ongoing since `2021`
+    ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-- **Patient Health Monitoring System** - A low-cost alternative for monitoring patients' vital conditions using IoT. The system incorporates features of a commercial Patient Monitoring System at only 1/8th of the cost. It utilizes various sensors such as AD8232 ECG Sensor, MAX30102 Pulse Oximeter, DS18B20 Temp Sensor, custom-made NIBP System (Sphygmomanometer) using HX710B, Air Pump & Solenoid Valve, DHT11 Temperature and Humidity Sensor, and BMP280 Air Pressure Sensor. - Ongoing since `2023`
+
+  - **Patient Health Monitoring System** - A low-cost alternative for monitoring patients' vital conditions using IoT. The system incorporates features of a commercial Patient Monitoring System at only 1/8th of the cost. It utilizes various sensors such as AD8232 ECG Sensor, MAX30102 Pulse Oximeter, DS18B20 Temp Sensor, custom-made NIBP System (Sphygmomanometer) using HX710B, Air Pump & Solenoid Valve, DHT11 Temperature and Humidity Sensor, and BMP280 Air Pressure Sensor. - Ongoing since `2023`
+    ### ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -97,7 +99,7 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 Throughout my educational journey, I have developed a variety of DIY projects. Here are some notable ones:
 
-- ![Science](http://ForTheBadge.com/images/badges/built-with-science.svg)
+### ![Science](http://ForTheBadge.com/images/badges/built-with-science.svg)
   - **Generate electricity using a motor (dynamo)** - `2014`
   - **Makeshift Crane** - Transferring items from the ground to the first floor using a motor and cotton thread - `2014`
   - **DIY projector** - Using a magnifying glass and smartphone - `2015`
@@ -106,7 +108,7 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
   - **Water Boat** - Using a motor and handmade propeller - `2016`
   - **Lit up tubelight** - Using CFL Driver - `2018`
 
-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   - **Bluetooth Smart Switch** - Using HC-05 - `2017`
   - **Weather Station** - Using DHT-11 - `2018`
   - **Calculator** - Based on Arduino UNO R3 - `2018`
@@ -115,13 +117,13 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
   - **Smart Dustbin** - Using HC-SR04 - `2019`
   - **Ultrasonic Range Measurement** - Using HC-SR04 - `2020`
 
-- ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
   - **Automatic Water Pump Control** - Based on ESP-32 Dev Module - `2022`
 
-- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   - **Network firewall & Advertisement blocking** - Based on Raspberry Pi Zero W - `2021`
 
-- ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=for-the-badge&logoColor=white)
+### ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=for-the-badge&logoColor=white)
   - **OCR Character Recognition** - Using TensorFlow, OpenCV & Python (Custom-designed neural network using labeled dataset) - `CUDA`
   - **VoiceGPT** - Using OpenAI's Whisper and Da-Vinci model API for voice-based chatGPT - `Python`
 
@@ -133,15 +135,15 @@ Throughout my educational journey, I have developed a variety of DIY projects. H
 
 I am an active contributor to open-source projects, dedicating my free time to enhance collaboration and innovation. Here are some of my contributions:
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+### ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 - Created Arduino libraries:
   - **DHT11 Arduino Library**: A simple and efficient library for reading temperature and humidity data from the DHT11 sensor without dependencies.
   - **SimpleUltrasonic Arduino Library**: A simple and efficient library for calculating distance data from the HC-SR04 sensor without dependencies.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - Created tutorials:
-- **How to install graphics.h in `Ubuntu`**
-- **Setting up WSL2 for C/C++/OpenGL Development** - `Step-by-step instructions`
+  - **How to install graphics.h in `Ubuntu`**
+  - **Setting up WSL2 for C/C++/OpenGL Development** - `Step-by-step instructions`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -151,13 +153,15 @@ I am an active contributor to open-source projects, dedicating my free time to e
 
 As a passionate gamer, I have gained valuable experience in server administration and automation. I have set up Minecraft and Rust servers to enjoy gaming sessions with my friends. Through these endeavors, I have acquired knowledge of automation using shell and batch scripts, as well as managing virtual machines and networks on platforms such as AWS, Google Cloud, and Azure. Here are the highlights:
 
-**Minecraft**
+## Minecraft
 
 - Developed an automated script for running a Java-based Minecraft server on Linux.
 - Created a texture pack to prevent X-ray exploits and enhance anti-cheating measures.
 - Operated a Minecraft server for my friends from 2019 to 2021, where I learned about Minecraft texture pack design and utilized Nvidia AI upscaling with CUDA.
 
-**Rust**
+
+
+## Rust
 
 - Founded and managed Rusty India, a Rust server community.
 - Created a custom map of India using Rust Edit and World Creator.
