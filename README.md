@@ -3,7 +3,7 @@
 <h1 align="center"> Hello there 👋, I'm Dhruba Saha</h1>
 <h3 align="center">✨Open Source Contributor🔹CS Grad🔹IoT Hobbyist🔹DIY Enthusiast🔹Photographer🔹Gamer✨</h3>
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![Header Banner](src/animated_presentation_software_header.gif)]()
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
