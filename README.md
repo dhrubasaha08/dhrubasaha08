@@ -13,7 +13,7 @@
   <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
 </p>
 
-# 💫 About Me:
+# 💫 About Me
 
 I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contributions, DIY projects, IoT, photography and gaming. I love working on DIY projects and exploring the world of IoT. In my free time, I actively contribute to open-source projects, fostering collaboration and innovation within the community. Furthermore, I also have a keen interest in photography, particularly street, nature, and astrophotography. Lastly, I enjoy playing games like GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG. 
 
@@ -21,7 +21,7 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 | Domain                                          | Type                                          |
 |-------------------------------------------------|-----------------------------------------------|
@@ -49,6 +49,7 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
+
 - 🔭 I’m currently working on updating documentation and files structures on my existing [ repositories.](https://github.com/dhrubasaha08?tab=repositories)
 
 - 🌱 I’m currently learning **TensorFlow**
@@ -65,7 +66,7 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubasaha08&theme=dark">
@@ -150,13 +151,13 @@ I am an active contributor to open-source projects, dedicating my free time to e
 
 As a passionate gamer, I have gained valuable experience in server administration and automation. I have set up Minecraft and Rust servers to enjoy gaming sessions with my friends. Through these endeavors, I have acquired knowledge of automation using shell and batch scripts, as well as managing virtual machines and networks on platforms such as AWS, Google Cloud, and Azure. Here are the highlights:
 
-**Minecraft:**
+**Minecraft**
 
 - Developed an automated script for running a Java-based Minecraft server on Linux.
 - Created a texture pack to prevent X-ray exploits and enhance anti-cheating measures.
 - Operated a Minecraft server for my friends from 2019 to 2021, where I learned about Minecraft texture pack design and utilized Nvidia AI upscaling with CUDA.
 
-**Rust:**
+**Rust**
 
 - Founded and managed Rusty India, a Rust server community.
 - Created a custom map of India using Rust Edit and World Creator.
