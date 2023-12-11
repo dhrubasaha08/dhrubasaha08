@@ -49,12 +49,12 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 | **Office**                                      | ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)  |
 | **Photo Editor & Design**                       | ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  |
 
-
+<!-- 
 <p align="right">
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 </p>
-
+-->
 
 <p align="center">
   <img src="assets/multi_color_ribbon.png">
@@ -86,6 +86,7 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 
 
+<!-- 
 # 📊 GitHub Stats
 
 <p align="center">
@@ -101,8 +102,8 @@ I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contri
 
 <p align="center">
   <img src="assets/multi_color_ribbon.png">
-</p>
-
+</p> 
+-->
 
 
 
