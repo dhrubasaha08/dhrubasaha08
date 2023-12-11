@@ -22,7 +22,7 @@
 
 # 💫 About Me
 
-I'm Dhruba Saha, a 20-year-old CS graduate with a passion for open-source contributions, DIY projects, IoT, photography and gaming. I love working on DIY projects and exploring the world of IoT. In my free time, I actively contribute to open-source projects, fostering collaboration and innovation within the community. Furthermore, I also have a keen interest in photography, particularly street, nature, and astrophotography. Lastly, I enjoy playing games like GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG. 
+I'm Dhruba Saha, a 21-year-old CS graduate with a passion for open-source contributions, DIY projects, IoT, photography and gaming. I love working on DIY projects and exploring the world of IoT. In my free time, I actively contribute to open-source projects, fostering collaboration and innovation within the community. Furthermore, I also have a keen interest in photography, particularly street, nature, and astrophotography. Lastly, I enjoy playing games like GTA V, CS GO, Rust, Minecraft, Fortnite, and PUBG. 
 
 
 <p align="center">
