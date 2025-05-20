@@ -8,11 +8,6 @@
 ![Header Banner](assets/animated_presentation_software_header.gif)
 
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=dhrubasaha08&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
-</p>
-
-
 <p align="center">
   <img src="assets/multi_color_ribbon.png">
 </p>
